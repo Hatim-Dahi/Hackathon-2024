@@ -1,0 +1,347 @@
+{
+  "worldwideTestChampionship": [
+    {
+      "rank": 1,
+      "team": "South Africa",
+      "matches": 10,
+      "won": 6,
+      "lost": 3,
+      "drawn": 1,
+      "noResult": 0,
+      "points": 76,
+      "PCT": 63.33
+    },
+    {
+      "rank": 2,
+      "team": "Australia",
+      "matches": 14,
+      "won": 9,
+      "lost": 4,
+      "drawn": 1,
+      "noResult": 0,
+      "points": 102,
+      "PCT": 60.71
+    },
+    {
+      "rank": 3,
+      "team": "India",
+      "matches": 16,
+      "won": 9,
+      "lost": 6,
+      "drawn": 1,
+      "noResult": 0,
+      "points": 110,
+      "PCT": 57.29
+    },
+    {
+      "rank": 4,
+      "team": "Sri Lanka",
+      "matches": 11,
+      "won": 5,
+      "lost": 6,
+      "drawn": 0,
+      "noResult": 0,
+      "points": 60,
+      "PCT": 45.45
+    },
+    {
+      "rank": 5,
+      "team": "England",
+      "matches": 21,
+      "won": 11,
+      "lost": 9,
+      "drawn": 1,
+      "noResult": 0,
+      "points": 114,
+      "PCT": 45.24
+    },
+    {
+      "rank": 6,
+      "team": "New Zealand",
+      "matches": 13,
+      "won": 6,
+      "lost": 7,
+      "drawn": 0,
+      "noResult": 0,
+      "points": 69,
+      "PCT": 44.23
+    },
+    {
+      "rank": 7,
+      "team": "Pakistan",
+      "matches": 10,
+      "won": 4,
+      "lost": 6,
+      "drawn": 0,
+      "noResult": 0,
+      "points": 40,
+      "PCT": 33.33
+    },
+    {
+      "rank": 8,
+      "team": "Bangladesh",
+      "matches": 12,
+      "won": 4,
+      "lost": 8,
+      "drawn": 0,
+      "noResult": 0,
+      "points": 45,
+      "PCT": 31.25
+    },
+    {
+      "rank": 9,
+      "team": "West Indies",
+      "matches": 11,
+      "won": 2,
+      "lost": 7,
+      "drawn": 2,
+      "noResult": 0,
+      "points": 32,
+      "PCT": 24.24
+    }
+  ],
+  "playerStatistics": [
+    {
+      "playerId": 1,
+      "name": "Abhimanyu Easwaran",
+      "region": "IN",
+      "totalRuns": 3200,
+      "battingAverage": 45.6,
+      "totalWickets": 5,
+      "bowlingAverage": 35.4,
+      "totalMatches": 40,
+      "totalInnings": 70
+    },
+    {
+      "playerId": 2,
+      "name": "Yashasvi Jaiswal",
+      "region": "IN",
+      "totalRuns": 4100,
+      "battingAverage": 50.2,
+      "totalWickets": 8,
+      "bowlingAverage": 30.1,
+      "totalMatches": 35,
+      "totalInnings": 65
+    },
+    {
+      "playerId": 3,
+      "name": "Virat Kohli",
+      "region": "IN",
+      "totalRuns": 8900,
+      "battingAverage": 49.3,
+      "totalWickets": 0,
+      "bowlingAverage": 0,
+      "totalMatches": 111,
+      "totalInnings": 186
+    },
+    {
+      "playerId": 4,
+      "name": "Dhruv Jurel",
+      "region": "IN",
+      "totalRuns": 1500,
+      "battingAverage": 32.5,
+      "totalWickets": 0,
+      "bowlingAverage": 0,
+      "totalMatches": 25,
+      "totalInnings": 40
+    },
+    {
+      "playerId": 5,
+      "name": "Sarfaraz Khan",
+      "region": "IN",
+      "totalRuns": 3400,
+      "battingAverage": 55.4,
+      "totalWickets": 3,
+      "bowlingAverage": 50.0,
+      "totalMatches": 45,
+      "totalInnings": 78
+    },
+    {
+      "playerId": 6,
+      "name": "Devdutt Padikkal",
+      "region": "IN",
+      "totalRuns": 3000,
+      "battingAverage": 48.0,
+      "totalWickets": 0,
+      "bowlingAverage": 0,
+      "totalMatches": 36,
+      "totalInnings": 62
+    },
+    {
+      "playerId": 7,
+      "name": "Rishabh Pant",
+      "region": "IN",
+      "totalRuns": 2500,
+      "battingAverage": 39.7,
+      "totalWickets": 0,
+      "bowlingAverage": 0,
+      "totalMatches": 35,
+      "totalInnings": 60
+    },
+    {
+      "playerId": 8,
+      "name": "KL Rahul",
+      "region": "IN",
+      "totalRuns": 4700,
+      "battingAverage": 42.3,
+      "totalWickets": 0,
+      "bowlingAverage": 0,
+      "totalMatches": 60,
+      "totalInnings": 110
+    },
+    {
+      "playerId": 9,
+      "name": "Shubman Gill",
+      "totalRuns": 3500,
+      "region": "IN",
+      "battingAverage": 47.6,
+      "totalWickets": 0,
+      "bowlingAverage": 0,
+      "totalMatches": 40,
+      "totalInnings": 75
+    },
+    {
+      "playerId": 10,
+      "name": "Ravichandran Ashwin",
+      "region": "IN",
+      "totalRuns": 3100,
+      "battingAverage": 28.4,
+      "totalWickets": 450,
+      "bowlingAverage": 22.6,
+      "totalMatches": 90,
+      "totalInnings": 140
+    },
+    {
+      "playerId": 11,
+      "name": "Ravindra Jadeja",
+      "region": "IN",
+      "totalRuns": 2600,
+      "battingAverage": 34.8,
+      "totalWickets": 200,
+      "bowlingAverage": 28.3,
+      "totalMatches": 70,
+      "totalInnings": 120
+    },
+    {
+      "playerId": 12,
+      "name": "Nitish Kumar Reddy",
+      "region": "IN",
+      "totalRuns": 1800,
+      "battingAverage": 40.2,
+      "totalWickets": 12,
+      "bowlingAverage": 32.1,
+      "totalMatches": 25,
+      "totalInnings": 50
+    },
+    {
+      "playerId": 13,
+      "name": "Washington Sundar",
+      "region": "IN",
+      "totalRuns": 2200,
+      "battingAverage": 35.0,
+      "totalWickets": 90,
+      "bowlingAverage": 31.2,
+      "totalMatches": 40,
+      "totalInnings": 70
+    },
+    {
+      "playerId": 14,
+      "name": "Jasprit Bumrah",
+      "region": "IN",
+      "totalRuns": 100,
+      "battingAverage": 5.0,
+      "totalWickets": 330,
+      "bowlingAverage": 21.5,
+      "totalMatches": 80,
+      "totalInnings": 160
+    },
+    {
+      "playerId": 15,
+      "name": "Akash Deep",
+      "region": "IN",
+      "totalRuns": 200,
+      "battingAverage": 10.0,
+      "totalWickets": 120,
+      "bowlingAverage": 27.8,
+      "totalMatches": 50,
+      "totalInnings": 90
+    },
+    {
+      "playerId": 16,
+      "name": "Harshit Rana",
+      "region": "IN",
+      "totalRuns": 150,
+      "battingAverage": 7.5,
+      "totalWickets": 80,
+      "bowlingAverage": 28.0,
+      "totalMatches": 30,
+      "totalInnings": 50
+    },
+    {
+      "playerId": 17,
+      "name": "Mohammed Siraj",
+      "region": "IN",
+      "totalRuns": 300,
+      "battingAverage": 12.5,
+      "totalWickets": 200,
+      "bowlingAverage": 25.0,
+      "totalMatches": 50,
+      "totalInnings": 90
+    },
+    {
+      "playerId": 18,
+      "region": "IN",
+      "name": "Prasidh Krishna",
+      "totalRuns": 150,
+      "battingAverage": 6.0,
+      "totalWickets": 100,
+      "bowlingAverage": 28.7,
+      "totalMatches": 40,
+      "totalInnings": 70
+    },
+    {
+      "playerId": 19,
+      "name": "Alex Carey",
+      "totalRuns": 2200,
+      "region": "AUS",
+      "battingAverage": 35.0,
+      "totalWickets": 0,
+      "bowlingAverage": 0,
+      "totalMatches": 45,
+      "totalInnings": 60
+    },
+    {
+      "playerId": 20,
+      "name": "Travis Head",
+      "totalRuns": 4400,
+      "battingAverage": 45.2,
+      "region": "AUS",
+      "totalWickets": 15,
+      "bowlingAverage": 40.5,
+      "totalMatches": 75,
+      "totalInnings": 120
+    },
+    {
+      "playerId": 21,
+      "name": "Josh Inglis",
+      "totalRuns": 1500,
+      "region": "AUS",
+      "battingAverage": 30.0,
+      "totalWickets": 0,
+      "bowlingAverage": 0,
+      "totalMatches": 30,
+      "totalInnings": 45
+    },
+    {
+      "playerId": 22,
+      "name": "Usman Khawaja",
+      "totalRuns": 6000,
+      "battingAverage": 47.5,
+      "totalWickets": 0,
+      "bowlingAverage": 0,
+      "totalMatches": 80,
+      "region": "AUS",
+      "totalInnings": 140
+    }
+  ]
+}

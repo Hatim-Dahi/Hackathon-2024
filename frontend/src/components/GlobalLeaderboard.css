@@ -1,0 +1,112 @@
+.leaderboard-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2px;
+}
+
+.global-header {
+  width: 79%;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Styling the table */
+.leaderboard-table {
+  width: 100%;
+  max-width: 1200px;
+  margin-top: 20px;
+  border-collapse: collapse;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: -15px;
+}
+
+/* Styling the table header */
+.leaderboard-table thead {
+  background-color: #007bff;
+  color: white;
+}
+
+.leaderboard-table th {
+  padding: 12px;
+  text-align: left;
+  font-weight: bold;
+}
+
+/* Styling the table rows */
+.leaderboard-table tbody tr:nth-child(even) {
+  background-color: #f4f4f4;
+}
+
+.leaderboard-table tbody tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+/* Styling individual cells */
+.leaderboard-table td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Adding hover effect for rows */
+.leaderboard-table tbody tr:hover {
+  background-color: #f1f1f1;
+}
+
+/* Styling the search input */
+.search-input {
+  width: 300px;
+  padding: 10px;
+  margin: 20px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  font-size: 16px;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: #007bff;
+}
+
+/* Dropdown for region selection */
+.region-selector select {
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+  background-color: #f4f4f4;
+}
+
+.region-selector {
+  margin-left: auto; /* Align to the right */
+  margin-right: 10px; /* Add spacing from the search bar */
+}
+
+.region-selector select:focus {
+  outline: none;
+  border-color: #007bff;
+}
+/* Header section */
+.global-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.global-header h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.search-input {
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 200px;
+  font-size: 14px;
+  margin-left: 10px;
+}
